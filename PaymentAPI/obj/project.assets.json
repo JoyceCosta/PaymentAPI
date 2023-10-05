@@ -11663,11 +11663,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\joyce\\OneDrive\\Documents\\C#\\PaymentAPI\\PaymentAPI\\PaymentAPI.csproj",
+      "projectUniqueName": "C:\\Users\\joyce\\OneDrive\\Documents\\CSharp\\PaymentAPI\\PaymentAPI\\PaymentAPI.csproj",
       "projectName": "PaymentAPI",
-      "projectPath": "C:\\Users\\joyce\\OneDrive\\Documents\\C#\\PaymentAPI\\PaymentAPI\\PaymentAPI.csproj",
+      "projectPath": "C:\\Users\\joyce\\OneDrive\\Documents\\CSharp\\PaymentAPI\\PaymentAPI\\PaymentAPI.csproj",
       "packagesPath": "C:\\Users\\joyce\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\joyce\\OneDrive\\Documents\\C#\\PaymentAPI\\PaymentAPI\\obj\\",
+      "outputPath": "C:\\Users\\joyce\\OneDrive\\Documents\\CSharp\\PaymentAPI\\PaymentAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\joyce\\AppData\\Roaming\\NuGet\\NuGet.Config",
