@@ -500,9 +500,10 @@ C:\Users\joyce\OneDrive\Documents\CSharp\PaymentAPI\PaymentAPI\obj\Debug\net7.0\
 C:\Users\joyce\OneDrive\Documents\CSharp\PaymentAPI\PaymentAPI\obj\Debug\net7.0\staticwebassets.build.json
 C:\Users\joyce\OneDrive\Documents\CSharp\PaymentAPI\PaymentAPI\obj\Debug\net7.0\staticwebassets.development.json
 C:\Users\joyce\OneDrive\Documents\CSharp\PaymentAPI\PaymentAPI\obj\Debug\net7.0\scopedcss\bundle\PaymentAPI.styles.css
-C:\Users\joyce\OneDrive\Documents\CSharp\PaymentAPI\PaymentAPI\obj\Debug\net7.0\PaymentAPI.csproj.CopyComplete
 C:\Users\joyce\OneDrive\Documents\CSharp\PaymentAPI\PaymentAPI\obj\Debug\net7.0\PaymentAPI.dll
 C:\Users\joyce\OneDrive\Documents\CSharp\PaymentAPI\PaymentAPI\obj\Debug\net7.0\refint\PaymentAPI.dll
 C:\Users\joyce\OneDrive\Documents\CSharp\PaymentAPI\PaymentAPI\obj\Debug\net7.0\PaymentAPI.pdb
 C:\Users\joyce\OneDrive\Documents\CSharp\PaymentAPI\PaymentAPI\obj\Debug\net7.0\PaymentAPI.genruntimeconfig.cache
 C:\Users\joyce\OneDrive\Documents\CSharp\PaymentAPI\PaymentAPI\obj\Debug\net7.0\ref\PaymentAPI.dll
+C:\Users\joyce\OneDrive\Documents\CSharp\PaymentAPI\PaymentAPI\obj\Debug\net7.0\PaymentAPI.sourcelink.json
+C:\Users\joyce\OneDrive\Documents\CSharp\PaymentAPI\PaymentAPI\obj\Debug\net7.0\PaymentAPI.csproj.Up2Date
