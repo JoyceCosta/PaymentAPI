@@ -18,6 +18,7 @@ export class PaymentDetailFormComponent {
     .subscribe({
       next: res => {
         this.service.list = res as PaymentDetail[]
+        this.service.resetForm(form)
       },
       error: err => { console.log(err) }
     })
