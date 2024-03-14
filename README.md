@@ -1,4 +1,4 @@
-# PaymentAPI
+# Payment API
 
 
 A system that registers card payments using Asp.Net Core Web API CRUD with Angular 16
